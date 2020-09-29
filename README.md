@@ -1,2 +1,2 @@
 # calculadora-js
-Calculadora simple
+Calculadora simple.
